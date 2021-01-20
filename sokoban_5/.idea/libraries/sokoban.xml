@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sokoban">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Sokoban/sokoban.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
